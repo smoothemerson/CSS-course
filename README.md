@@ -19,7 +19,7 @@ Free course promoted by Bro Code to teach CSS <br/>
 
 <p align="center">
   <img alt="CSS COURSE" src="./github/preview1.png" width="150px" height="400px" >
-  <img alt="CSS COURSE" src="./github/preview2.png" width="600px" height="400px" >
+  <img alt="CSS COURSE" src="./github/preview2.png" width="200px" height="400px" >
 </p>
 
 ## 🚀 Topics

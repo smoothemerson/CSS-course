@@ -1,0 +1,110 @@
+body{
+    background-color: black;
+}
+
+h1{
+    text-align: center;
+    font-size: 40px;
+    color: aquamarine;
+}
+
+div{
+    margin-top: 100px;
+    margin-left: 600px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#animacao1{
+    width: 250px;
+    height: 250px;
+    background: white;
+    font-size: 30px;
+    text-align: center;
+
+    /*
+    animation: mySlide;
+    animation-play-state: running;
+    animation-delay: 0s;
+    animation-timing-function: ease;
+    animation-iteration-count: infinite;
+    animation-duration: 5s;
+    */
+
+    animation: 3s ease 0s infinite running mySlide;
+}
+
+#animacao2{
+    width: 250px;
+    height: 250px;
+    background: red;
+    font-size: 30px;
+    text-align: center;
+
+
+    animation: 3s ease 0s infinite running myRotate;
+}
+
+#animacao3{
+    width: 250px;
+    height: 250px;
+    background: purple;
+    font-size: 30px;
+    text-align: center;
+
+
+    animation: 3s ease 0s infinite running myOpacity;
+}
+
+#animacao4{
+    width: 250px;
+    height: 250px;
+    background: green;
+    font-size: 30px;
+    text-align: center;
+
+
+    animation: 3s ease 0s infinite running myScale;
+}
+
+#animacao5{
+    width: 250px;
+    height: 250px;
+    background: pink;
+    font-size: 30px;
+    text-align: center;
+
+
+    animation: 3s ease 0s infinite running myColorChange;
+}
+
+@keyframes mySlide{
+    from{margin-left: 100%;}
+    to{margin-left: 0%;}
+}
+
+@keyframes myRotate {
+
+    /*100%{transform: rotateX(360deg)}*/
+    /*100%{transform: rotateY(360deg);}*/
+    100%{transform: rotateZ(360deg);}
+}
+
+@keyframes myOpacity{
+    50%{opacity: 0;}
+}
+
+@keyframes myScale{
+    50%{transform: scale(0.5, 0.5);}
+}
+
+@keyframes myColorChange{
+    0%{background-color: red;}
+    20%{background-color: orange;}
+    40%{background-color: yellow;}
+    60%{background-color: green;}
+    80%{background-color: blue;}
+    100%{background-color: purple;}
+}

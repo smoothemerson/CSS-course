@@ -1,0 +1,6 @@
+/*CSS é a sigla para Cascading Style Sheets, ou seja, Folhas de Estilo em Cascatas. cores
+Podemos usar CSS na linha do código, no head e em documento CSS externo 
+*/ 
+body {
+    background-color: lightyellow;
+}

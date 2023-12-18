@@ -1,0 +1,25 @@
+body{
+    background-color: aquamarine;
+}
+
+h1{
+    text-align: center;
+    font-size: 40px;
+    color: chocolate;
+}
+
+#sombras{
+    text-shadow: 0px 0px 10px purple, 0px -10px 10px green;
+}
+
+#sombras:hover{
+    box-shadow: 10px 10px 10px blue;
+}
+
+#sombras1{
+    text-shadow: 0px 0px 5px yellow, 0px -5px 5px red;
+}
+
+#sombras1:hover{
+    box-shadow: 5px 5px 5px black;
+}

@@ -30,7 +30,7 @@ This project covered the following topics:
 - Borders :black_square_button:
 - Position :dart:
 - Icons :house:
-- Animation :film_frames:
+- Transform :arrows_counterclockwise:
 - ...
 
 ## 💻 Project

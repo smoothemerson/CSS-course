@@ -1,14 +1,9 @@
-<h1 align="center"> CSS COURSE </h1>
+<h1 align="center"> CSS-course </h1>
 
 <p align="center">
-Free course promoted by Bro Code to teach CSS <br/>
-<a href="https://www.youtube.com/watch?v=wRNinF7YQqQ">Study this project in video format by clicking here.</a>
-</p>
-
-<p align="center">
-  <a href="#-topics">Topics</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-License">License</a>
+  <a href="#memo-license">License</a>
 </p>
 
 <p align="center">
@@ -37,7 +32,7 @@ This project covered the following topics:
 
 This CSS course contains a lot of information about this essential language for devs.
 
-- [Access the finished project, online](https://aoba43.github.io/CSS-course/)
+- [Access the finished project, online](https://smoothemerson.github.io/CSS-course/)
 
 - [Watch class](https://www.youtube.com/watch?v=wRNinF7YQqQ)
 

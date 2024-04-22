@@ -32,8 +32,6 @@ This project covered the following topics:
 
 This CSS course contains a lot of information about this essential language for devs.
 
-- [Access the finished project, online](https://smoothemerson.github.io/CSS-course/)
-
 - [Watch class](https://www.youtube.com/watch?v=wRNinF7YQqQ)
 
 ## :memo: License
